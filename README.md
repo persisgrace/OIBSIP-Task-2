@@ -1,2 +1,2 @@
 # OIBSIP-Task-2
-Landing pagr
+Landing page
